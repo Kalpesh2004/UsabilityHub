@@ -1,27 +1,36 @@
-UsabilityHub – Modern Landing Page
-A fully responsive and visually appealing UsabilityHub landing page clone, built using HTML5, CSS3, Flexbox, and Google Fonts.
-This project focuses on layout designing, responsive UI, clean code structure, and modern web styling.
+<h1>📌UsabilityHub – Modern Landing Page</h1>
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+A fully responsive and visually appealing UsabilityHub Landing Page Clone, built using HTML5, CSS3, Flexbox, and Google Fonts.
+This project focuses on modern layout design, responsive UI, clean code structure, and SaaS-style web styling.
 
-🚀 Project Overview
 
-This project is a frontend clone of the UsabilityHub homepage.
-It includes:
+<h2>🚀 Project Overview</h2>
 
-✔️ Top banner
-✔️ Navigation bar
-✔️ Hero section
-✔️ Company logos section
-✔️ Features grid
-✔️ Big feature sections
-✔️ Examples gallery
-✔️ CTA section
+This project is a frontend recreation of the UsabilityHub homepage.
+It includes the following sections:
+
+✔️ Top Banner
+
+✔️ Navigation Bar
+
+✔️ Hero Section
+
+✔️ Company Logos Section
+
+✔️ Features Section
+
+✔️ Big Feature Sections
+
+✔️ Examples Gallery
+
+✔️ CTA Section
+
 ✔️ Footer & Sub-footer
 
-The website is mobile-friendly and uses modern CSS techniques for layout and styling.
+The website is fully responsive and makes use of modern CSS techniques.
 
-🛠️ Tech Stack
+
+<h2>🛠️ Tech Stack</h2>
 
 HTML5
 
@@ -31,7 +40,8 @@ Google Fonts (Poppins, Roboto)
 
 Font Awesome Icons
 
-📁 Project Structure
+<h2>📁 Project Structure</h2>
+
 📦 UsabilityHub Landing Page
 ├── index.html
 ├── style.css
@@ -41,34 +51,30 @@ Font Awesome Icons
       ├── ...
       └── images & icons
 
-🔥 Features
 
--> Clean and modern UI
+<h2>🔥 Features</h2>
 
--> Responsive layout
+-> Clean and Modern UI
 
--> Hover effects and button styling
+-> Responsive Layout
 
--> Section-wise organized design
+-> Smooth Hover Effects
 
--> Reusable utility classes
+-> Section-wise Organized Components
 
--> Font Awesome integration
+-> Reusable Utility Classes
 
--> Web-optimized images
+-> Font Awesome Icon Support
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-> Web-Optimized Images
 
+<h2>📸 Screenshots</h2>
 
-📸 Screenshots
-📌 HERO SECTION (MAIN BANNER)
-<img width="1896" height="950" alt="image" src="https://github.com/user-attachments/assets/3dc89b4c-0b6e-4b72-adc6-5e82adb256aa" />
+⭐ Hero Section (Main Banner)
+<img width="1896" height="950" alt="Hero Section" src="https://github.com/user-attachments/assets/3dc89b4c-0b6e-4b72-adc6-5e82adb256aa" />
 
+<h2>🌐 Live Demo</h2>
+🚧 Coming Soon...
 
-
-
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-🌐 Live Demo
-Comming soon 
-
-## NOte : This website is made for only learning purpose.... !!!!
+<h2>📌 Note</h2>
+This website is created only for learning and educational purposes.
