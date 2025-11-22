@@ -42,14 +42,7 @@ Font Awesome Icons
 
 <h2>📁 Project Structure</h2>
 
-📦 UsabilityHub Landing Page
-├── index.html
-├── style.css
-└── assets/
-      ├── asset1.png
-      ├── asset2.png
-      ├── ...
-      └── images & icons
+<img width="486" height="310" alt="image" src="https://github.com/user-attachments/assets/fd83b6d0-9bec-4fa0-954b-9a95c46813fd" />
 
 
 <h2>🔥 Features</h2>
