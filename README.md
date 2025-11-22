@@ -1,4 +1,4 @@
-<h1>📌UsabilityHub – Modern Landing Page</h1>
+<img width="486" height="310" alt="image" src="https://github.com/user-attachments/assets/86d5988c-f7be-41b1-a35a-ea799d314639" /><img width="486" height="310" alt="image" src="https://github.com/user-attachments/assets/178aa926-5aef-4143-8d63-9112e76a3004" /><h1>📌UsabilityHub – Modern Landing Page</h1>
 
 A fully responsive and visually appealing UsabilityHub Landing Page Clone, built using HTML5, CSS3, Flexbox, and Google Fonts.
 This project focuses on modern layout design, responsive UI, clean code structure, and SaaS-style web styling.
@@ -42,7 +42,15 @@ Font Awesome Icons
 
 <h2>📁 Project Structure</h2>
 
-<img width="486" height="310" alt="image" src="https://github.com/user-attachments/assets/fd83b6d0-9bec-4fa0-954b-9a95c46813fd" />
+📦 UsabilityHub Landing Page
+├── index.html
+├── style.css
+└── assets/
+      ├── asset1.png
+      ├── asset2.png
+      ├── ...
+      └── images & icons
+
 
 
 <h2>🔥 Features</h2>
